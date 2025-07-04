@@ -1,0 +1,4 @@
+repository "My project/VR-Gallery-Tenun-Bali@18968305765670@cloud"
+  path "/"
+    br "/main"
+    co "/main"
