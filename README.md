@@ -2,6 +2,9 @@
 
 Proyek ini merupakan simulasi museum virtual berbasis **XR (Extended Reality)** menggunakan **Unity 6.1** dan **XR Interaction Toolkit**, yang menghadirkan pengalaman imersif untuk mengenal lebih dekat kain tenun tradisional Indonesia melalui interaksi visual, audio, dan fisik.
 
+https://drive.google.com/file/d/1cyp_BKPvb1Fh4tp0tqWOFt6RVsfd-AD6/
+view?usp=sharing
+
 ---
 
 ## 🎮 Fitur Utama
